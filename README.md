@@ -4,4 +4,4 @@ this is a test git folder.
 
 ## class info 
 
-* Rowan clinic 
+* Rowan clinic (Fall 2014)
