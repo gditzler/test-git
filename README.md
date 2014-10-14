@@ -1,4 +1,7 @@
-test-git
-========
+# about 
 
-it is showing off git
+this is a test git folder.
+
+## class info 
+
+* Rowan clinic 
